@@ -2,8 +2,7 @@
 teste
 
 ## teste
-<img width="290" height="111" alt="image" src="https://github.com/rcedros/trabalho-compartilhado/issues/1#issue-3364838452](https://private-user-images.githubusercontent.com/12600917/483374778-1a917248-f30c-4042-8f64-f9d1ef02e0fd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY0MTk2NTUsIm5iZiI6MTc1NjQxOTM1NSwicGF0aCI6Ii8xMjYwMDkxNy80ODMzNzQ3NzgtMWE5MTcyNDgtZjMwYy00MDQyLThmNjQtZjlkMWVmMDJlMGZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI4VDIyMTU1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkNjU4NWZmM2YzMjJkMTNjM2ZhZjAzZTIyNTJiZDM1ZWQ0MGRhNDczNjc1MDNjNzVmYWU3ZjM3YjJjZjEyZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hdekcN6GvqyRZosCI24djAJkDrOuwVN49AKB_aBSJIk
-" />
+<img width="5729" height="1892" alt="Sem título-2024-10-19-1123" src="https://github.com/user-attachments/assets/92a0d1f9-36a9-45d6-8b6c-c6cec84d16c0" />
 
 ### teste
 
